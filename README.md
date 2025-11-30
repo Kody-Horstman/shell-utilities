@@ -1,2 +1,2 @@
 # shell-utilities
-utility functions for shell scripting.
+Utility functions for shell scripting.
